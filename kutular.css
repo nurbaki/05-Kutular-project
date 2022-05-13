@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+}
+h1{
+    /* margin: 2rem; */
+    text-align: center;
+}
+div.k{
+    box-sizing: border-box;
+    width: 3rem;
+    height: 3rem;
+    margin: 1rem; 
+    background-color: gray;
+    display: inline-block;
+}
+.sat1{
+    display: inline-block;
+    margin-left: 30rem;
+}
+.sat2{
+    display: inline-block;
+    margin-left: 51rem;
+}
+.sat3{
+    display: inline-block;
+    margin-left: 46rem;
+}
+.sat4{
+    display: inline-block;
+    margin-left: 51rem;
+}
+.sat5{
+    display: inline-block;
+    margin-left: 646px;
+}
